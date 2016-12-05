@@ -13,21 +13,37 @@ To run: `java Infection < school.csv`
 Infection unit tests its important methods. The output should be:
 
 `My name is D and I am on version V4`
+
 `My name is E and I am on version V3`
+
 `My name is F and I am on version V3`
+
 `My name is G and I am on version V3`
+
 `My name is A and I am on version V4`
+
 `My name is B and I am on version V4`
+
 `My name is C and I am on version V4`
+
 `My name is L and I am on version V3`
+
 `My name is M and I am on version V3`
+
 `My name is N and I am on version V3`
+
 `My name is O and I am on version V3`
+
 `My name is H and I am on version V3`
+
 `My name is I and I am on version V2`
+
 `My name is J and I am on version V2`
+
 `My name is K and I am on version V2`
+
 `My name is Q and I am on version V3`
+
 `My name is P and I am on version V3`
 
 The ordering of lines may be different but the letter names and versions should match the above text. This output has been verified for correctness. 
